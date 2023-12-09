@@ -1,0 +1,2 @@
+# SingletonPattern
+Implementation of SingletonPattern
